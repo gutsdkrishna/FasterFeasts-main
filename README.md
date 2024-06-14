@@ -49,7 +49,7 @@ npm install
 
 ### Run Locally
 
-To run **Masala-Mingle** locally, run this command on your git bash:
+To run **Faster Feast** locally, run this command on your git bash:
 
 Linux and macOS:
 
