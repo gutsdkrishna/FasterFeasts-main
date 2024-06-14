@@ -13,10 +13,12 @@ Faster Feast is a food ordering website built using Vite and React. It aims to p
 
 ## Demo Screenshots
 
-<img width="1429" alt="Screenshot 2024-06-01 at 12 07 40 PM" src="https://github.com/pg-29/Masala-Mingle/assets/122177879/20ec6214-56df-4ae7-988b-f58f9ac2f0db">
-<img width="1429" alt="Screenshot 2024-06-01 at 12 08 44 PM" src="https://github.com/pg-29/Masala-Mingle/assets/122177879/222bc3e9-ce7b-4e8f-9338-e84d3a1aead8">
-<img width="1429" alt="Screenshot 2024-06-01 at 12 08 00 PM" src="https://github.com/pg-29/Masala-Mingle/assets/122177879/0aac284c-dbe8-4163-bf50-f5eecc4d73de">
-<img width="1429" alt="Screenshot 2024-06-01 at 12 08 08 PM" src="https://github.com/pg-29/Masala-Mingle/assets/122177879/e9529aac-fa5a-4d89-b167-6b507d196874">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 07 40 PM" src="SC/SCR-20240614-sbzg.jpeg">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 08 44 PM" src="SC/SCR-20240614-scfd.jpeg">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 08 00 PM" src="SC/SCR-20240614-sclk.png">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 08 08 PM" src="SC/SCR-20240614-sdfg.png">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 08 08 PM" src="SC/SCR-20240614-sdiz.jpeg">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 08 08 PM" src="SC/SCR-20240614-sdoq.png">
 
 ## Technologies Used
 
@@ -52,13 +54,13 @@ To run **Masala-Mingle** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pg-29/Masala-Mingle.git
+sudo git clone https://github.com/gutsdkrishna/FasterFeasts-main.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pg-29/Masala-Mingle.git
+git clone https://github.com/gutsdkrishna/FasterFeasts-main.git
 ```
 
 ## License
